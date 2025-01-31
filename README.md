@@ -21,6 +21,10 @@ To start your journey with Flincoin Core, see the [installation guide](INSTALL.m
 
 The JSON-RPC API provided by Flincoin Core is self-documenting and can be browsed with `flincoin-cli help`, while detailed information for each command can be viewed with `flincoin-cli help <command>`.
 
+## Important: First Time Setup
+Before running flincoind, set required permissions:
+mkdir -p ~/.flincoin
+chmod 700 ~/.flincoin
 ### Such ports
 
 Flincoin Core by default uses port `9777` for peer-to-peer communication that
