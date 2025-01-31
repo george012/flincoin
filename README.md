@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/flincoin/flincoin/master/share/pixmaps/flincoin256.svg" alt="Flincoin" width="256"/>
+<img src="https://imgur.com/TDapY5V.png" alt="Flincoin" width="300"/>
 <br/><br/>
 Flincoin Core [FLIN, ₣]  
 </h1>
