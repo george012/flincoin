@@ -324,9 +324,9 @@ public:
         };
 
         chainTxData = ChainTxData{
-            // Data as of block 199bea6a442310589cbb50a193a30b097c228bd5a0f21af21e4e53dd57c382d3 (height 5,900,000)
+            // Data as of block 6336fbd5d723241e039542f49576a07bc1b080d5e5de48f47babf42a0565aa43 (height 11000)
             1738172050, // * UNIX timestamp of last checkpoint block
-            0,    // * total number of transactions between genesis and last checkpoint
+            13200,    // * total number of transactions between genesis and last checkpoint
             0.0        // * estimated number of transactions per second after that timestamp
         };
 
