@@ -88,6 +88,9 @@ Do you have a question regarding Flincoin? An answer is perhaps already in the
 [Q&A section](https://github.com/flincoin/flincoin/discussions/categories/q-a)
 of the discussion board!
 
+# updateUbuntu22.04
+* upgrade git action workerflows Linux OS to Ubuntu22.04
+
 ## License - Much license ⚖️
 Flincoin Core is released under the terms of the MIT license. See
 [COPYING](COPYING) for more information.
